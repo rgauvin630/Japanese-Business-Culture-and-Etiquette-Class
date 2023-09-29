@@ -16,12 +16,13 @@ By the end of this program, participants will understand:
 •	Drive improved business results with Japanese business associates
 
 
-## Nucor Class Name Outline: Mastering Japanese Business Etiquette
+Tracy - [[II. Historical and Cultural Context (30 minutes)]]
 
-## Pre-work:
-            
-## Tools and Take-Aways:
+Haley - [[III. Communication Styles (45 minutes)]]
 
-## Post-work:
+Kurt - [[IV. Business Meetings and Relationships (60 minutes)]] + [[V. Business Cards (20 minutes)]]
 
+Ryan - [[XIV. Meal Etiquette]]
+
+Liz - [[VII. Decision-Making and Consensus (45 minutes)]] + [[VIII. Negotiation and Conflict Resolution (30 minutes)]]
  
