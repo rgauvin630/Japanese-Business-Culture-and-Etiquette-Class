@@ -6,8 +6,6 @@ quickshare-url: "https://noteshare.space/note/cln3js6ue2644101mwojaeh74w#5F0zhIr
 
 **Duration: 4 hours**
 
-TEST
-
 Video: [[Japanese Business Culture and Etiquette - International Management]]
 
 Video: [[Dine Like a Pro - Japanese Table Manners You Need to Know!]]
