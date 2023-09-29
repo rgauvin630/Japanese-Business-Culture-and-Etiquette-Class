@@ -5,15 +5,15 @@ Drive improved business results through improved interactions with Japanese busi
   
 ## Learning Objectives
 By the end of this program, participants will understand:
--Japanese history and culture 
--Cultural dimensions between United States and Japan 
--Japanese culture in the business and professional environment
--Japanese protocol in business and professional interactions
+- Japanese history and culture 
+- Cultural dimensions between United States and Japan 
+- Japanese culture in the business and professional environment
+- Japanese protocol in business and professional interactions
 
 ## Participants will be able to:
--Appreciate Japanese cultural values and how to integrate with Nucor culture
--Demonstrate respect in interactions with Japanese business associates
--Drive improved business results with Japanese business associates
+- Appreciate Japanese cultural values and how to integrate with Nucor culture
+- Demonstrate respect in interactions with Japanese business associates
+- Drive improved business results with Japanese business associates
 
 
 **Tracy** - [[II. Historical and Cultural Context (30 minutes)]]
