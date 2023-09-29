@@ -26,3 +26,4 @@ By the end of this program, participants will understand:
 
 **Liz** - [VII. Decision-Making and Consensus (45 minutes)](https://github.com/rgauvin630/Japanese-Business-Culture-and-Etiquette-Class/blob/main/VII.%20Decision-Making%20and%20Consensus%20(45%20minutes).md) + [VIII. Negotiation and Conflict Resolution (30 minutes)](https://github.com/rgauvin630/Japanese-Business-Culture-and-Etiquette-Class/blob/main/VIII.%20Negotiation%20and%20Conflict%20Resolution%20(30%20minutes).md)
  
+**SHOULD WE REACH OUT TO  KOGYO TEAMMATES AT NYS?**
