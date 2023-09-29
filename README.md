@@ -16,13 +16,13 @@ By the end of this program, participants will understand:
 •	Drive improved business results with Japanese business associates
 
 
-Tracy - [[II. Historical and Cultural Context (30 minutes)]]
+**Tracy** - [[II. Historical and Cultural Context (30 minutes)]]
 
-Haley - [[III. Communication Styles (45 minutes)]]
+**Haley** - [[III. Communication Styles (45 minutes)]]
 
-Kurt - [[IV. Business Meetings and Relationships (60 minutes)]] + [[V. Business Cards (20 minutes)]]
+**Kurt** - [[IV. Business Meetings and Relationships (60 minutes)]] + [[V. Business Cards (20 minutes)]]
 
-Ryan - [[XIV. Meal Etiquette]]
+**Ryan** - [[XIV. Meal Etiquette]]
 
-Liz - [[VII. Decision-Making and Consensus (45 minutes)]] + [[VIII. Negotiation and Conflict Resolution (30 minutes)]]
+**Liz** - [[VII. Decision-Making and Consensus (45 minutes)]] + [[VIII. Negotiation and Conflict Resolution (30 minutes)]]
  
