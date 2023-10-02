@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II. Historical and Cultural Context (30 minutes).md",
+                "file": "V. Business Cards (20 minutes).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II. Historical and Cultural Context (30 minutes).md",
+                "file": "V. Business Cards (20 minutes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "II. Historical and Cultural Context (30 minutes).md",
+                "file": "V. Business Cards (20 minutes).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "II. Historical and Cultural Context (30 minutes).md"
+                "file": "V. Business Cards (20 minutes).md"
               }
             }
           },
@@ -155,24 +155,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "qatt:Refresh QATT Tables": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
   "active": "6c88178d380f8484",
   "lastOpenFiles": [
+    "Dine Like a Pro - Japanese Table Manners You Need to Know!.md",
+    "V. Business Cards (20 minutes).md",
+    "II. Historical and Cultural Context (30 minutes).md",
     "README.md",
     "Outline.md",
     "I. Introduction (15 minutes).md",
     "III. Communication Styles (45 minutes).md",
     "Japanese Business Culture and Etiquette Video.md",
     "Japanese Business Culture and Etiquette - International Management.md",
-    "Dine Like a Pro - Japanese Table Manners You Need to Know!.md",
     "XIV. Meal Etiquette.md",
     "Cultural Dimensions Comparison (Hofstede).md",
     "XIII. Networking and Refreshments (15 minutes, optional).md",
     "XII. Evaluation and Feedback (15 minutes).md",
-    "II. Historical and Cultural Context (30 minutes).md",
-    "V. Business Cards (20 minutes).md",
     "XI. Conclusion and Wrap-Up (15 minutes).md",
     "X. Q&A and Discussion (15 minutes).md",
     "IX. Case Studies and Group Activities (45 minutes).md",
