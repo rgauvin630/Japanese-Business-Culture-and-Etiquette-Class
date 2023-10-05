@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Outline.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,7 +147,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,11 +155,23 @@
       "command-palette:Open command palette": false,
       "qatt:Refresh QATT Tables": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "flowershow:Publish with Flowershow": false
+      "flowershow:Publish with Flowershow": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6c88178d380f8484",
   "lastOpenFiles": [
+    "OUTPUT/index.html",
+    "OUTPUT/data.json",
+    "OUTPUT/pages/XIV. Meal Etiquette.html",
+    "OUTPUT/pages/XIII. Networking and Refreshments (15 minutes, optional).html",
+    "OUTPUT/pages/XII. Evaluation and Feedback (15 minutes).html",
+    "OUTPUT/pages/XI. Conclusion and Wrap-Up (15 minutes).html",
+    "OUTPUT/pages/X. Q&A and Discussion (15 minutes).html",
+    "OUTPUT/pages/VIII. Negotiation and Conflict Resolution (30 minutes).html",
+    "OUTPUT/pages/VII. Decision-Making and Consensus (45 minutes).html",
+    "OUTPUT/pages/VI. Work Environment and Etiquette (30 minutes).html",
+    "OUTPUT/pages/V. Business Cards (20 minutes).html",
     "I. Introduction (15 minutes).md",
     "Cultural Dimensions Comparison (Hofstede).md",
     "Japanese Business Culture and Etiquette - International Management.md",

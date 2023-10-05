@@ -1,0 +1,36 @@
+{
+  "graph": [],
+  "links": [
+	{"source": 1, "target": 1},
+	{"source": 8, "target": 6},
+	{"source": 9, "target": 3},
+	{"source": 9, "target": 4},
+	{"source": 9, "target": 10},
+	{"source": 9, "target": 18},
+	{"source": 9, "target": 12},
+	{"source": 9, "target": 13}
+],
+  "nodes": [
+	{"sl":0, "size": 10, "score": 0.5, "id": "Cultural Dimensions Comparison (Hofstede)", "type":"circle"},
+	{"sl":1, "size": 10, "score": 0.5, "id": "Dine Like a Pro - Japanese Table Manners You Need to Know!", "type":"circle"},
+	{"sl":2, "size": 10, "score": 0.5, "id": "I. Introduction (15 minutes)", "type":"circle"},
+	{"sl":3, "size": 10, "score": 0.5, "id": "II. Historical and Cultural Context (30 minutes)", "type":"circle"},
+	{"sl":4, "size": 10, "score": 0.5, "id": "IV. Business Meetings and Relationships (60 minutes)", "type":"circle"},
+	{"sl":5, "size": 10, "score": 0.5, "id": "IX. Case Studies and Group Activities (45 minutes)", "type":"circle"},
+	{"sl":6, "size": 10, "score": 0.5, "id": "Japanese Business Culture and Etiquette - International Management", "type":"circle"},
+	{"sl":7, "size": 10, "score": 0.5, "id": "Japanese Business Culture and Etiquette Video", "type":"circle"},
+	{"sl":8, "size": 10, "score": 0.5, "id": "Outline", "type":"circle"},
+	{"sl":9, "size": 10, "score": 0.5, "id": "README", "type":"circle"},
+	{"sl":10, "size": 10, "score": 0.5, "id": "V. Business Cards (20 minutes)", "type":"circle"},
+	{"sl":11, "size": 10, "score": 0.5, "id": "VI. Work Environment and Etiquette (30 minutes)", "type":"circle"},
+	{"sl":12, "size": 10, "score": 0.5, "id": "VII. Decision-Making and Consensus (45 minutes)", "type":"circle"},
+	{"sl":13, "size": 10, "score": 0.5, "id": "VIII. Negotiation and Conflict Resolution (30 minutes)", "type":"circle"},
+	{"sl":14, "size": 10, "score": 0.5, "id": "X. Q&A and Discussion (15 minutes)", "type":"circle"},
+	{"sl":15, "size": 10, "score": 0.5, "id": "XI. Conclusion and Wrap-Up (15 minutes)", "type":"circle"},
+	{"sl":16, "size": 10, "score": 0.5, "id": "XII. Evaluation and Feedback (15 minutes)", "type":"circle"},
+	{"sl":17, "size": 10, "score": 0.5, "id": "XIII. Networking and Refreshments (15 minutes, optional)", "type":"circle"},
+	{"sl":18, "size": 10, "score": 0.5, "id": "XIV. Meal Etiquette", "type":"circle"}
+],
+  "directed": false,
+  "multigraph": false
+}

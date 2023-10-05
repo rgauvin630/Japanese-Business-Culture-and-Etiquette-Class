@@ -1,7 +1,3 @@
----
-quickshare-date: 2023-09-28 14:07:46
-quickshare-url: "https://noteshare.space/note/cln3js6ue2644101mwojaeh74w#5F0zhIrnL0W3pAVE3TCv6c0PO8cV1fc8HvR9qwNl13w"
----
 **Title: Understanding Japanese Business Culture and Etiquette**
 
 **Duration: 4 hours**
